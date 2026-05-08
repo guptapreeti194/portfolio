@@ -63,7 +63,7 @@ export default function Hero() {
           >
             <div className="mx-auto aspect-square w-[16rem] overflow-hidden rounded-full border-4 border-card shadow-xl sm:w-[20rem] md:w-[24rem]">
               <Image
-                src="/Original.png"
+                src="/original.png"
                 alt="Preeti Gupta"
                 width={800}
                 height={800}
