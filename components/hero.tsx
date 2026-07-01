@@ -38,7 +38,7 @@ export default function Hero() {
             </h1>
 
             <p className="mt-8 max-w-2xl text-3xl font-medium leading-snug text-foreground/90 md:text-5xl">
-              Pre final year student at KIIT UNIVERSITY.
+              Final year student at KIIT UNIVERSITY.
             </p>
 
             <p className="mt-8 max-w-2xl text-lg leading-8 text-muted-foreground">
